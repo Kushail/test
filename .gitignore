@@ -2,6 +2,8 @@
 # Created by https://www.toptal.com/developers/gitignore/api/node
 # Edit at https://www.toptal.com/developers/gitignore?templates=node
 
+node_modules
+node_modules*
 ### Node ###
 # Logs
 logs
@@ -34,6 +36,7 @@ coverage
 
 # Bower dependency directory (https://bower.io/)
 bower_components
+node_modules
 
 # node-waf configuration
 .lock-wscript
