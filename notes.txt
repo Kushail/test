@@ -1,0 +1,8 @@
+- Connecting note.js and MsSQL
+
+- npm install --save-exact mssql
+
+- npm install moment 
+	- deals w date formatting 
+- npm intall uuid
+	- for IDs

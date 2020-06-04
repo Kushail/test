@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/Kushail/test/issues"
   },
-  "homepage": "https://github.com/Kushail/test#readme"
+  "homepage": "https://github.com/Kushail/test#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.26.0",
+    "mssql": "6.2.0",
+    "uuid": "^8.1.0"
+  }
 }
